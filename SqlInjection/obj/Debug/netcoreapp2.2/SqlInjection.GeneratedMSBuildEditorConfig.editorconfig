@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SqlInjection
+build_property.ProjectDir = /home/jonas/Documents/git/sofSik/SqlInjection/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
