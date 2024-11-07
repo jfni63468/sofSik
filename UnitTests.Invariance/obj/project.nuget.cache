@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iAR/TvmUurvqNOxqBJgaR7XoNTDZNfFvHB8n4UDMtsLCPpG4xAF5XI/pETc3jfCuSBt8DG5FM+7PnAslC+tOVA==",
+  "dgSpecHash": "X+TVckAAnDA69WhCqxr9/p3linriVbts9BNrHwmpzQVQd4DCUGUTs1fDc33AGhPQI99cg/+m81VGHV38e/3kuQ==",
   "success": true,
-  "projectFilePath": "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/UnitTests.Invariance.csproj",
+  "projectFilePath": "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/UnitTests.Invariance.csproj",
   "expectedPackageFiles": [
     "/home/jonas/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/jonas/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

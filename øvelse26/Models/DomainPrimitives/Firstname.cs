@@ -14,10 +14,10 @@ namespace Models.DomainPrimitives
 
         private void ValidateFirstName(string firstName)
         {
-            if (IsNull(firstName))
-            {
-                throw new ArgumentNullException("Firstname cannot be null");
-            }
+            //if (IsNull(firstName))
+            //{
+            //    throw new ArgumentNullException("Firstname cannot be null");
+            //}
             if (IsShorterThanMinimumLength(firstName))
             {
                 throw new ArgumentOutOfRangeException($"First name cannot have less than {MinimumLength} characters");

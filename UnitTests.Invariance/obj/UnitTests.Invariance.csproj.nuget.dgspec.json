@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/UnitTests.Invariance.csproj": {}
+    "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/UnitTests.Invariance.csproj": {}
   },
   "projects": {
-    "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/UnitTests.Invariance.csproj": {
+    "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/UnitTests.Invariance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/UnitTests.Invariance.csproj",
+        "projectUniqueName": "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/UnitTests.Invariance.csproj",
         "projectName": "UnitTests.Invariance",
-        "projectPath": "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/UnitTests.Invariance.csproj",
+        "projectPath": "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/UnitTests.Invariance.csproj",
         "packagesPath": "/home/jonas/.nuget/packages/",
-        "outputPath": "/home/jonas/Documents/Software/øvelse36/UnitTests.Invariance/obj/",
+        "outputPath": "/home/jonas/Documents/git/sofSik/UnitTests.Invariance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonas/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/jonas/Documents/Software/øvelse36/øvelse26/ValidateTheNameModelBinding.csproj": {
-                "projectPath": "/home/jonas/Documents/Software/øvelse36/øvelse26/ValidateTheNameModelBinding.csproj"
+              "/home/jonas/Documents/git/sofSik/øvelse26/ValidateTheNameModelBinding.csproj": {
+                "projectPath": "/home/jonas/Documents/git/sofSik/øvelse26/ValidateTheNameModelBinding.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/home/jonas/Documents/Software/øvelse36/øvelse26/ValidateTheNameModelBinding.csproj": {
+    "/home/jonas/Documents/git/sofSik/øvelse26/ValidateTheNameModelBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jonas/Documents/Software/øvelse36/øvelse26/ValidateTheNameModelBinding.csproj",
+        "projectUniqueName": "/home/jonas/Documents/git/sofSik/øvelse26/ValidateTheNameModelBinding.csproj",
         "projectName": "ValidateTheNameModelBinding",
-        "projectPath": "/home/jonas/Documents/Software/øvelse36/øvelse26/ValidateTheNameModelBinding.csproj",
+        "projectPath": "/home/jonas/Documents/git/sofSik/øvelse26/ValidateTheNameModelBinding.csproj",
         "packagesPath": "/home/jonas/.nuget/packages/",
-        "outputPath": "/home/jonas/Documents/Software/øvelse36/øvelse26/obj/",
+        "outputPath": "/home/jonas/Documents/git/sofSik/øvelse26/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonas/.nuget/NuGet/NuGet.Config"
