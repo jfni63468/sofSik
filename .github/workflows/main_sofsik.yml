@@ -24,10 +24,9 @@ jobs:
           $matches = Get-Content vulnerabilities.txt | Select-String -Pattern "has the following vulnerable packages"
           if ($matches.Length -gt 0) {echo 'Vulnerable packages detected'; exit 1}
 
-
-
   test:
     runs-on: windows-latest
+    needs: scan-for-vunerable-packages
 
     steps:
       - uses: actions/checkout@v4
